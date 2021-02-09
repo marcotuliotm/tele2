@@ -14,7 +14,8 @@ Write a readable and maintainable program in Java randomly simulating this event
 Once your code is done, drop us a mail, so we can let you know how to get it to us (or upload it to github and send us the link).
 
 ## Conclusion
-As expected, you better switch doors around 67% of the time.
+The application simulates 1000000 matches where the player does not change doors and 1000000 where he changes.
+As expected, it is best to switch doors about 67% of the time.
 
 ## Running the application
 Either run this in maven using ./maven clean compile exec:java or using the run features from your IDE of choice, If you don't want to install anything on your machine you can see the execution here https://repl.it/@Marco_TulioTul2/tele2?v=1
