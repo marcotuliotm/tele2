@@ -18,6 +18,7 @@ As expected, you better switch doors around 67% of the time.
 
 ## Running the application
 Either run this in maven using ./maven clean compile exec:java or using the run features from your IDE of choice.
+If you don't want to install anything on your machine you can see the execution here https://repl.it/@Marco_TulioTul2/tele2?v=1
 
 ## Running the tests
 Either run this in maven using ./maven clean test or using the run features from your IDE of choice.
