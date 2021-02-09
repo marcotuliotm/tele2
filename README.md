@@ -14,7 +14,7 @@ Write a readable and maintainable program in Java randomly simulating this event
 Once your code is done, drop us a mail, so we can let you know how to get it to us (or upload it to github and send us the link).
 
 ## Conclusion
-As expected, you better switch ports around 67% of the time.
+As expected, you better switch doors around 67% of the time.
 
 ## Running the application
 Either run this in maven using ./maven clean compile exec:java or using the run features from your IDE of choice.
